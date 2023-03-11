@@ -2585,7 +2585,7 @@ pre .deletion {
 }
 .search-pop-overlay .search-popup {
   background: var(--background-color);
-  border-radius: 5px;
+  border-radius: 20px;
   height: 80%;
   width: 70%;
   margin: auto;
@@ -2608,8 +2608,8 @@ pre .deletion {
 }
 .search-pop-overlay .search-popup .search-header {
   background: var(--fourth-text-color);
-  border-top-left-radius: 2px;
-  border-top-right-radius: 2px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
   display: flex;
   padding: 10px;
 }

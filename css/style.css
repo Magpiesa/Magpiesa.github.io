@@ -4963,8 +4963,8 @@ pre .deletion {
   -webkit-transform: translate(-50%, -50%);
   text-align: center;
 }
-.first-screen-container .contenttop .focusinfo .header-tou img,
-.first-screen-container .content .focusinfo .header-tou img {
+.first-screen-container .contenttop .header-tou img,
+.first-screen-container .content .header-tou img {
   width: 80px;
   height: auto;
   border-radius: 50%;

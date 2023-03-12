@@ -2251,8 +2251,6 @@ pre .deletion {
 .page-container .page-main-content .page-main-content-middle {
   box-sizing: border-box;
   width: 100%;
-  display: flex;
-  justify-content: center;
   padding: 38px 0;
 }
 @media (max-width: 780px) {

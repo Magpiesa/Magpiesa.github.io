@@ -4958,6 +4958,12 @@ pre .deletion {
   box-sizing: border-box;
   min-height: 90vh;
 }
+.first-screen-container .content .focusinfo img {
+  width: 80px;
+  height: auto;
+  border-radius: 50%;
+  border: 3px solid rgba(255,255,255,0.3);
+}
 .first-screen-container .content .description {
   font-weight: bold;
   font-size: 2rem;

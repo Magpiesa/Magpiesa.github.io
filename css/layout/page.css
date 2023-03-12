@@ -283,9 +283,10 @@
   }
 }
 .page-container .page-main-content .page-main-content-middle {
-  box-sizing: border-box;
-  width: 100%;
-  padding: 38px 0;
+  max-width: 800px;
+  padding: 0 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 @media (max-width: 780px) {
   .page-container .page-main-content .page-main-content-middle {

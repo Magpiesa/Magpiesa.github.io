@@ -4958,7 +4958,7 @@ pre .deletion {
   box-sizing: border-box;
   min-height: 90vh;
 }
-.first-screen-container .content .focusinfo img {
+.first-screen-container .content .focusinfo .header-tou img {
   width: 80px;
   height: auto;
   border-radius: 50%;

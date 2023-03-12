@@ -4955,6 +4955,7 @@ pre .deletion {
 }
 .first-screen-container .contenttop,
 .first-screen-container .content {
+  position: relative;
   max-width: 800px;
   padding: 0 10px;
   top: 40%;

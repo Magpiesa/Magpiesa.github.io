@@ -4999,19 +4999,19 @@ pre .deletion {
 }
 @media (prefers-color-scheme: light) {
   .first-screen-container {
-    background: url("http://rreg66yfi.hn-bkt.clouddn.com/author/headerbg.jpg?e=1678611190&token=KL4c1oII9M1W-ZayrOzKPfRQWwCC28ouMdsoIDh6:avTIjSkAT-8wOp8w-o6BwOglRb0=") center center/cover no-repeat !important;
+    background: url("/images/headerbg.jpg") center center/cover no-repeat !important;
   }
 }
 @media (prefers-color-scheme: dark) {
   .first-screen-container {
-    background: url("http://rreg66yfi.hn-bkt.clouddn.com/author/headerbg.jpg?e=1678611190&token=KL4c1oII9M1W-ZayrOzKPfRQWwCC28ouMdsoIDh6:avTIjSkAT-8wOp8w-o6BwOglRb0=") center center/cover no-repeat !important;
+    background: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp") center center/cover no-repeat !important;
   }
 }
 .light-mode .first-screen-container {
-  background: url("http://rreg66yfi.hn-bkt.clouddn.com/author/headerbg.jpg?e=1678611190&token=KL4c1oII9M1W-ZayrOzKPfRQWwCC28ouMdsoIDh6:avTIjSkAT-8wOp8w-o6BwOglRb0=") center center/cover no-repeat !important;
+  background: url("/images/headerbg.jpg") center center/cover no-repeat !important;
 }
 .dark-mode .first-screen-container {
-  background: url("http://rreg66yfi.hn-bkt.clouddn.com/author/headerbg.jpg?e=1678611190&token=KL4c1oII9M1W-ZayrOzKPfRQWwCC28ouMdsoIDh6:avTIjSkAT-8wOp8w-o6BwOglRb0=") center center/cover no-repeat !important;
+  background: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp") center center/cover no-repeat !important;
 }
 .image-viewer-container {
   position: fixed;

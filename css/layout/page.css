@@ -282,6 +282,20 @@
     height: 56px;
   }
 }
+.page-container .page-main-content .notice {
+  padding: 20px;
+  color: #505050;
+  position: relative;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background: #fbfbfb;
+  border-radius: 5px;
+}
+.page-container .page-main-content .notice i {
+  float: left;
+  margin-right: 10px;
+  color: #a0dad0;
+}
 .page-container .page-main-content .page-main-content-middle {
   max-width: 800px;
   padding: 0 10px;

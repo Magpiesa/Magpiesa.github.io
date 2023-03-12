@@ -2276,23 +2276,12 @@ pre .deletion {
 .page-container .page-main-content .page-main-content-middle .main-content {
   position: relative;
   box-sizing: border-box;
-  width: 80%;
   max-width: 1000px;
   height: 100%;
   transition-property: color, background, box-shadow, border-color, max-width, width;
   transition-delay: 0s, 0s, 0s, 0s, 0s, 0s;
   transition-duration: 0.2s, 0.2s, 0.2s, 0.2s, 0.2s, 0.2s;
   transition-timing-function: ease, ease, ease, ease, ease, ease;
-}
-@media (max-width: 780px) {
-  .page-container .page-main-content .page-main-content-middle .main-content {
-    width: 86%;
-  }
-}
-@media (max-width: 500px) {
-  .page-container .page-main-content .page-main-content-middle .main-content {
-    width: 90%;
-  }
 }
 .page-container .page-main-content .page-main-content-middle .main-content.has-toc {
   max-width: 1200px !important;

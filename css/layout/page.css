@@ -310,19 +310,8 @@
 .page-container .page-main-content .page-main-content-middle .main-content {
   position: relative;
   box-sizing: border-box;
-  width: 80%;
   max-width: 1000px;
   height: 100%;
-}
-@media (max-width: 780px) {
-  .page-container .page-main-content .page-main-content-middle .main-content {
-    width: 86%;
-  }
-}
-@media (max-width: 500px) {
-  .page-container .page-main-content .page-main-content-middle .main-content {
-    width: 90%;
-  }
 }
 .page-container .page-main-content .page-main-content-middle .main-content.has-toc {
   max-width: 1200px !important;

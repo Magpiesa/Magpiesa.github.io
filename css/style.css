@@ -4984,7 +4984,7 @@ pre .deletion {
 }
 @media (max-width: 780px) {
   .first-screen-container .content .description {
-    font-size: 1.8rem;
+    font-size: 1rem;
   }
 }
 .first-screen-container .content .social-contacts {

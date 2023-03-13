@@ -3484,19 +3484,6 @@ pre .deletion {
 .menu-drawer-show {
   overflow: hidden;
 }
-.pattern-center {
-  position: relative;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-.pattern-attachment-img {
-  height: 500px;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 .post-tools-container .tools-list li {
   cursor: pointer;
   width: 42px;

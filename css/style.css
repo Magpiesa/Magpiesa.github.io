@@ -3463,6 +3463,19 @@ pre .deletion {
   padding: 0 10px;
   border-radius: 18px;
 }
+.menu-wrapper .pattern-center {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.menu-wrapper .pattern-attachment-img {
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 .menu-wrapper .window-mask {
   position: absolute;
   top: 0;
